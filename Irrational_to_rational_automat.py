@@ -1,1 +1,1 @@
-jajaj pelotudo
+print ("jajaj pelotudo")
